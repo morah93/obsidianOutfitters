@@ -112,3 +112,9 @@ Deployed production site + set up CI/CD
  AI chatbot improvements (fine-tuned Q&A)
 
  Admin dashboard for sales/analytics
+
+📄 License
+
+MIT License — free to use for learning/inspiration.
+
+
